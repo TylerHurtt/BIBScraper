@@ -1,0 +1,24 @@
+{
+  "name": "bibscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "dependencies": {},
+  "devDependencies": {
+    "puppeteer": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scraper.js --unhandled-rejections=strict"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylerHurtt/BIBScraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TylerHurtt/BIBScraper/issues"
+  },
+  "homepage": "https://github.com/TylerHurtt/BIBScraper#readme"
+}
